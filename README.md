@@ -44,7 +44,7 @@ O sistema realiza os cálculos e apresenta o resultado formatado de acordo com a
 
 ## 📸 Preview
 
-![Preview do projeto](img/tela-Conversor-de-moedas)
+![Preview do projeto](img/Tela-Conversor-de-moedas.png)
 
 ## ▶️ Como executar
 
